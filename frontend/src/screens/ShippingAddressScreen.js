@@ -54,7 +54,6 @@ export default function ShippingAddressScreen() {
     );
     // navigate('/payment'); gets us to the payment blank screeeeeen!
   };
-
   // const placeOrderHandler = async () => {
   //   try {
   //     dispatch({ type: 'CREATE_REQUEST' });
